@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @whitewidow-create
+- 👋 Hi, I’m Ndegwa Jackson
 - 👀 I’m interested in Front End and Back End Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on all open projects
 - 📫 How to reach me on jackjunior807@gmail.com
 - 😄 Pronouns: $$$$$
-- ⚡ Fun fact: I don't like suprises
 
 <!---
 whitewidow-create/whitewidow-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
